@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\source\repos\gitCodeForJerkins\gitCodeForJerkins\bin\Debug\net6.0\gitCodeForJerkins.exe
+C:\Users\rahulkumar22\source\repos\gitCodeForJerkins\gitCodeForJerkins\bin\Debug\net6.0\gitCodeForJerkins.deps.json
+C:\Users\rahulkumar22\source\repos\gitCodeForJerkins\gitCodeForJerkins\bin\Debug\net6.0\gitCodeForJerkins.runtimeconfig.json
+C:\Users\rahulkumar22\source\repos\gitCodeForJerkins\gitCodeForJerkins\bin\Debug\net6.0\gitCodeForJerkins.dll
+C:\Users\rahulkumar22\source\repos\gitCodeForJerkins\gitCodeForJerkins\bin\Debug\net6.0\gitCodeForJerkins.pdb
+C:\Users\rahulkumar22\source\repos\gitCodeForJerkins\gitCodeForJerkins\obj\Debug\net6.0\gitCodeForJerkins.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\source\repos\gitCodeForJerkins\gitCodeForJerkins\obj\Debug\net6.0\gitCodeForJerkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\source\repos\gitCodeForJerkins\gitCodeForJerkins\obj\Debug\net6.0\gitCodeForJerkins.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\source\repos\gitCodeForJerkins\gitCodeForJerkins\obj\Debug\net6.0\gitCodeForJerkins.AssemblyInfo.cs
+C:\Users\rahulkumar22\source\repos\gitCodeForJerkins\gitCodeForJerkins\obj\Debug\net6.0\gitCodeForJerkins.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\source\repos\gitCodeForJerkins\gitCodeForJerkins\obj\Debug\net6.0\gitCodeForJerkins.dll
+C:\Users\rahulkumar22\source\repos\gitCodeForJerkins\gitCodeForJerkins\obj\Debug\net6.0\refint\gitCodeForJerkins.dll
+C:\Users\rahulkumar22\source\repos\gitCodeForJerkins\gitCodeForJerkins\obj\Debug\net6.0\gitCodeForJerkins.pdb
+C:\Users\rahulkumar22\source\repos\gitCodeForJerkins\gitCodeForJerkins\obj\Debug\net6.0\gitCodeForJerkins.genruntimeconfig.cache
+C:\Users\rahulkumar22\source\repos\gitCodeForJerkins\gitCodeForJerkins\obj\Debug\net6.0\ref\gitCodeForJerkins.dll
